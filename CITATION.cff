@@ -1,0 +1,44 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  SMASSIF-RML: a Semantic Web stream processing solution with
+  declarative data mapping capability based on a modified version
+  of the RMLMapper-java tool and extensions to the StreamingMASSIF framework.
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mihary
+    family-names: Ranaivoson
+  - orcid: 'https://orcid.org/0000-0001-5887-899X'
+    affiliation: Orange
+    given-names: Lionel
+    family-names: Tailhardat
+  - orcid: 'https://orcid.org/0000-0001-5639-1504'
+    given-names: Yoan
+    family-names: Chabot
+    affiliation: Orange
+  - orcid: 'https://orcid.org/0000-0003-0457-1436'
+    affiliation: EURECOM
+    given-names: Raphaël
+    family-names: Troncy
+repository-code: 'https://github.com/Orange-OpenSource/SMASSIF-RML'
+url: 'https://github.com/Orange-OpenSource/SMASSIF-RML'
+abstract: >-
+  SMASSIF-RML: a Semantic Web stream processing solution with
+  declarative data mapping capability based on a modified version
+  of the RMLMapper-java tool and extensions to the StreamingMASSIF framework.
+keywords:
+  - semantic-web
+  - linked-data
+  - RDF
+  - stream-processing
+  - stream-reasoning
+  - message-bus
+  - json-ld
+license: BSD-4-Clause
+version: v0.0.0
+date-released: '2023-02-20'
