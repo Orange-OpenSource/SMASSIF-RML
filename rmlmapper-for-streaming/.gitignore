@@ -1,0 +1,4 @@
+# GIT Ignore file for the SMASSIF-RML project / rmlmapper module
+
+# target
+target/**
