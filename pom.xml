@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2022-2023 Orange. All rights reserved.
+  ~
+  ~ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+  ~     1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+  ~     2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+  ~     3. All advertising materials mentioning features or use of this software must display the following acknowledgement:
+  ~     This product includes software developed by Orange.
+  ~     4. Neither the name of Orange nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+  ~
+  ~ THIS SOFTWARE IS PROVIDED BY Orange "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL Orange BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+  ~
+  -->
+
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.orange.noria</groupId>
+    <artifactId>SMASSIF-RML</artifactId>
+    <packaging>pom</packaging>
+    <version>0.1.0</version>
+
+    <modules>
+        <module>rmlmapper-for-streaming</module>
+        <module>massif</module>
+        <module>dsm</module>
+    </modules>
+
+    <description>
+        A Semantic Web stream processing solution with declarative data mapping capability based on a modified version of the RMLMapper-java tool and extensions to the StreamingMASSIF framework.
+    </description>
+    <url>https://github.com/Orange-OpenSource/SMASSIF-RML</url>
+
+    <developers>
+        <developer>
+            <id>https://github.com/MiharyR</id>
+            <name>Mihary Ranaivoson</name>
+            <email>mihari.ranaivoson@gmail.com</email>
+        </developer>
+        <developer>
+            <id>https://github.com/GenEars</id>
+            <name>Lionel Tailhardat</name>
+            <email>lionel.tailhardat@orange.com</email>
+        </developer>
+        <developer>
+            <id>https://github.com/PGuillemette</id>
+            <name>Perrine Guillemette</name>
+            <email>perrine.guillemette@orange.com</email>
+        </developer>
+    </developers>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+
+        <!-- rmlmapper-for-streaming -->
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <junit.version>4.13.2</junit.version>
+
+    </properties>
+
+    <repositories>
+        <repository>
+            <id>repo.maven.apache.org</id>
+            <url>https://repo.maven.apache.org/maven2/</url>
+        </repository>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
+    </repositories>
+
+    <dependencies>
+    </dependencies>
+
+
+    <build>
+        <plugins>
+        </plugins>
+    </build>
+
+
+</project>
