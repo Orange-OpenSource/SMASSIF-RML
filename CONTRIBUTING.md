@@ -38,10 +38,6 @@ When contributing, in the general case, please:
 
 See also the `makefile` for development and testing purposes.
 
-Example:
-// TODO: get configSection from CLI args
-Trigger single pipeline, multiple pipelines from based on CLI or config.ini
-
 ## Communication
 
 GitHub issues are the primary way for communicating about specific proposed changes to this project.
