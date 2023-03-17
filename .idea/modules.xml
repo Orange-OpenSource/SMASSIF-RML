@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SMASSIF-RML.iml" filepath="$PROJECT_DIR$/.idea/SMASSIF-RML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SMASSIF-RML.iml" filepath="$PROJECT_DIR$/SMASSIF-RML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsm/dsm.iml" filepath="$PROJECT_DIR$/dsm/dsm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/massif/massif.iml" filepath="$PROJECT_DIR$/massif/massif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rmlmapper-for-streaming/rmlmapper-for-streaming.iml" filepath="$PROJECT_DIR$/rmlmapper-for-streaming/rmlmapper-for-streaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsm/dsm.iml" filepath="$PROJECT_DIR$/dsm/dsm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/massif/massif.iml" filepath="$PROJECT_DIR$/massif/massif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rmlmapper-for-streaming/rmlmapper-for-streaming.iml" filepath="$PROJECT_DIR$/rmlmapper-for-streaming/rmlmapper-for-streaming.iml" />
     </modules>
   </component>
 </project>
