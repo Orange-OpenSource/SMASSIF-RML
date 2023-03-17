@@ -1,0 +1,104 @@
+[
+  {
+    "name": {
+      "family_name": "Thompson",
+      "first_name": "Dena"
+    },
+    "enemies": [
+      "Lazaro"
+    ],
+    "id": 1,
+    "friends": [
+      "Marcellus",
+      "Sebastian",
+      "Ramiro",
+      "Frederique"
+    ]
+  },
+  {
+    "name": {
+      "family_name": "Kuhn",
+      "first_name": "Austen"
+    },
+    "enemies": [],
+    "id": 2,
+    "friends": []
+  },
+  {
+    "name": {
+      "family_name": "Heathcote",
+      "first_name": "Sam"
+    },
+    "enemies": [],
+    "id": 3,
+    "friends": [
+      "Esteban",
+      "Koby",
+      "Rashawn",
+      "Chelsea"
+    ]
+  },
+  {
+    "name": {
+      "family_name": "Will",
+      "first_name": "Antonina"
+    },
+    "enemies": [
+      "Elfrieda"
+    ],
+    "id": 4,
+    "friends": [
+      "Brandi",
+      "Myrtice",
+      "Roslyn",
+      "Mafalda",
+      "Joesph"
+    ]
+  },
+  {
+    "name": {
+      "family_name": "Renner",
+      "first_name": "London"
+    },
+    "enemies": [
+      "Nona",
+      "Shane",
+      "Pasquale",
+      "Buck"
+    ],
+    "id": 5,
+    "friends": [
+      "Davion"
+    ]
+  },
+  {
+    "name": {
+      "family_name": "Koepp",
+      "first_name": "Javon"
+    },
+    "enemies": [
+      "Mario"
+    ],
+    "id": 6,
+    "friends": [
+      "Gerson",
+      "Jermey",
+      "Kevin",
+      "Eryn"
+    ]
+  },
+  {
+    "name": {
+      "family_name": "Turcotte",
+      "first_name": "Jade"
+    },
+    "enemies": [
+      "Norberto"
+    ],
+    "id": 7,
+    "friends": [
+      "Roxanne",
+      "Abraham"
+    ]
+  }
+]
